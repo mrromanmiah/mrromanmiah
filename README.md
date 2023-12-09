@@ -2,6 +2,8 @@
   <img src="https://i.ibb.co/nMxTbbq/32908076-249038668029-Converted.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+<h3 align="center">A passionate web developer from Bangladesh</h3>
+
 # My Current Stats 
 
   <p align="center">
