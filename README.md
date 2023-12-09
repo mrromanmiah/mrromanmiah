@@ -48,7 +48,7 @@
 
 # Trends
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrromanmiah/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrromanmiah/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
 
 
 
