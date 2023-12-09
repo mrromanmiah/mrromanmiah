@@ -2,18 +2,13 @@
   <img src="https://i.ibb.co/nMxTbbq/32908076-249038668029-Converted.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-
-
-
 # My Current Stats 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FD01FC&fire=0059FC&currStreakNum=0059FC&currStreakLabel=FD01FC&sideNums=FD01FC&sideLabels=0059FC&dates=FFFFFF)](https://git.io/streak-stats)
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FD01FC&fire=0059FC&currStreakNum=0059FC&currStreakLabel=FD01FC&sideNums=FD01FC&sideLabels=0059FC&dates=FFFFFF" alt="GitHub Streak" /></a>
+  </p>
 
 
-  <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FD01FC&fire=0059FC&currStreakNum=0059FC&currStreakLabel=FD01FC&sideNums=FD01FC&sideLabels=0059FC&dates=FFFFFF" alt="GitHub Streak" /></a></p>
-
-
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 
 
