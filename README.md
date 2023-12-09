@@ -20,7 +20,7 @@
   </a>
 </p>
 
-# Recent Projects Link (Click on Logo)
+## Recent Projects Link (Click on Logo)
 
 <div align="center">
   <a href="https://vogue-verse.web.app/">
