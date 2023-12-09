@@ -10,7 +10,8 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FD01FC&fire=0059FC&currStreakNum=0059FC&currStreakLabel=FD01FC&sideNums=FD01FC&sideLabels=0059FC&dates=FFFFFF)](https://git.io/streak-stats)
 
 
-  [![GitHub Trends SVG](https://api.githubtrends.io/You (('mrromanmiah', UpdateUserBackgroundTask(user_id='mrromanmiah', access_token='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', private_access=False, start_date=None, end_date=None))) are now authenticated!/svg/avgupta456/langs)](https://githubtrends.io)
+  [![GitHub Trends SVG](https://api.githubtrends.io/mrromanmiah/svg/avgupta456/langs)](https://githubtrends.io)
+
 
 
 
