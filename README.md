@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://vogue-verse.web.app/">
     <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
-    <p>VogueVerse</p>
+    <h6>VogueVerse</h6>
   </a>
   
 </p>
