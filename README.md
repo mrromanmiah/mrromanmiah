@@ -16,3 +16,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb,express,git,nodejs" />
   </a>
 </p>
+
+# Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrromanmiah&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrromanmiah&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrromanmiah&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrromanmiah&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrromanmiah&theme=github_dark&utcOffset=8)
+
