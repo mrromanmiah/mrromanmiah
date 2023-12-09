@@ -11,7 +11,8 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FD01FC&fire=0059FC&currStreakNum=0059FC&currStreakLabel=FD01FC&sideNums=FD01FC&sideLabels=0059FC&dates=FFFFFF" alt="GitHub Streak" /></a>
   </p>
 <br />
-<br />
+
+
   ## 💻 Technologies I Know
 <br />
   <p align="center">
@@ -19,7 +20,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb,express,git,nodejs" />
   </a>
 </p>
-<br />
 <br />
 
 ## 🌱 Recent Projects Link (Click on Logo)
@@ -38,8 +38,6 @@
   </a>
 </div>
 <br />
-<br />
-
 
 ## 📉 Summary
 <br />
@@ -50,11 +48,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrromanmiah&theme=github_dark&utcOffset=8) 
 
 <br />
-<br />
 
 ## 📄 Trends
 <br />
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrromanmiah/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
 
-
+<br />
 
