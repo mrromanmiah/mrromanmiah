@@ -22,7 +22,7 @@
 # Recent Projects
 
 <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; gap: 10px;">
     <a href="https://vogue-verse.web.app/">
       <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
     </a>  
