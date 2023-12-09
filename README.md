@@ -22,9 +22,9 @@
 # Recent Projects
 
 <div align="center">
-  <div style="display: flex; gap: 0.5em;">
+  <div style="display: flex;">
     <a href="https://vogue-verse.web.app/">
-      <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
+      <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56" />
     </a>  
     <a href="https://edenenclave-8ff8d.web.app/">
       <img src="https://i.ibb.co/KrDVJsh/favicon.png" width="56" height="56"/>
