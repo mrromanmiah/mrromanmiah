@@ -40,7 +40,6 @@
 <br />
 
 ## 📉 Summary
-<br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrromanmiah&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrromanmiah&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrromanmiah&theme=github_dark)
@@ -50,7 +49,6 @@
 <br />
 
 ## 📄 Trends
-<br />
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrromanmiah/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
 
 <br />
