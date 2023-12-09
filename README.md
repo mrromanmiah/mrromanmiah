@@ -27,5 +27,7 @@
 
 # Trends
 
-[![GitHub Trends SVG](https://api.githubtrends.io/'mrromanmiah'/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrromanmiah/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+
+
 
