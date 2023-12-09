@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://i.ibb.co/nMxTbbq/32908076-249038668029-Converted.png?raw=true" alt="Sublime's custom image"/>
 </p>
-
+<br />
+<br />
 <h3 align="center">Passionate about coding and creating meaningful solutions. Full-stack developer with a focus on clean, efficient code and user-centric design. Constantly learning and exploring new technologies. Let's build something amazing together! 🚀 </h3>
 
 ---
@@ -23,10 +24,10 @@
 </p>
 <br />
 <br />
----
 
 ## 🌱 Recent Projects Link (Click on Logo)
-
+<br />
+<br />
 <div align="center">
   <a href="https://vogue-verse.web.app/">
     <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
@@ -40,8 +41,9 @@
     <img src="https://i.ibb.co/5K9yq2k/Asset-2.png" width="56" height="56"/>
   </a>
 </div>
+<br />
+<br />
 
----
 
 ## 📉 Summary
 
