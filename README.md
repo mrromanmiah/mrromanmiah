@@ -24,9 +24,17 @@
 <p align="center">
   <a href="https://vogue-verse.web.app/">
     <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
-    <h6>VogueVerse</h6>
-  </a>
-  
+  </a>  
+</p>
+<p align="center">
+  <a href="https://edenenclave-8ff8d.web.app/">
+    <img src="https://i.ibb.co/KrDVJsh/favicon.png" width="56" height="56"/>
+  </a>  
+</p>
+<p align="center">
+  <a href="https://tour-titan.web.app/">
+    <img src="https://i.ibb.co/5K9yq2k/Asset-2.png" width="56" height="56"/>
+  </a>  
 </p>
 
 # Summary
