@@ -9,6 +9,15 @@
   </p>
 
 
+  # Technologies I Know
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,CSS,tailwind,js,react,firebase,MongoDB,express,git,nodejs" />
+  </a>
+</p>
+
+
 
 
 
