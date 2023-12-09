@@ -13,7 +13,7 @@
   </p>
 
 ---
-  ## 🕸️ Technologies I Know
+  ## 💻 Technologies I Know
 
   <p align="center">
   <a href="https://skillicons.dev">
