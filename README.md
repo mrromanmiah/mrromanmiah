@@ -19,6 +19,12 @@
   </a>
 </p>
 
+# Recent Projects
+
+<p align="center">
+  <img src="https://i.ibb.co/WBqfVjB/logo-Black.png"/>
+</p>
+
 # Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrromanmiah&theme=github_dark)
