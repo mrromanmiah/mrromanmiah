@@ -50,6 +50,6 @@
 
 ## 📄 Trends
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mrromanmiah/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
-
+<a href="https://app.daily.dev/mrromanmiah"><img src="https://i.ibb.co/6FXMKXJ/Asset-1.png?r=cbq" width="400" alt="Roman Miah's Dev Card"/></a>
 <br />
 
