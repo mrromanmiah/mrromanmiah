@@ -22,7 +22,7 @@
 # Recent Projects
 
 <p align="center">
-  <img src="https://i.ibb.co/WBqfVjB/logo-Black.png"/>
+  <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
 </p>
 
 # Summary
