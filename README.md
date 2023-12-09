@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.ibb.co/nMxTbbq/32908076-249038668029-Converted.png)
+![mrromanmiah](https://i.ibb.co/nMxTbbq/32908076-249038668029-Converted.png)
 
 
 
