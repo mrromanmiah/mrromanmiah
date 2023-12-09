@@ -40,11 +40,6 @@
   
 </div>
 
-![image search api](https://i.ibb.co/5K9yq2k/Asset-2.png)[(TourTitan)](https://tour-titan.web.app/)
-
-
-
-
 
 # Summary
 
