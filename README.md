@@ -12,7 +12,6 @@
   </p>
 <br />
 <br />
----
   ## 💻 Technologies I Know
 <br />
   <p align="center">
