@@ -25,6 +25,8 @@
 
 ## 🌱 Recent Projects Link (Click on Logo)
 
+<!-- Additional empty lines for increased spacing -->
+
 <div align="center">
   <a href="https://vogue-verse.web.app/">
     <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
