@@ -13,6 +13,7 @@
   
   ## 💻 Technologies I Know
 <br />
+<br />
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb,express,git,nodejs" />
@@ -21,6 +22,7 @@
 <br />
 
 ## 🌱 Recent Projects Link (Click on Logo)
+<br />
 <br />
 <div align="center">
   <a href="https://vogue-verse.web.app/">
