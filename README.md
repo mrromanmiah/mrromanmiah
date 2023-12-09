@@ -10,7 +10,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FD01FC&fire=0059FC&currStreakNum=0059FC&currStreakLabel=FD01FC&sideNums=FD01FC&sideLabels=0059FC&dates=FFFFFF)](https://git.io/streak-stats)
 
 
-  [![GitHub Trends SVG](https://api.githubtrends.io/mrromanmiah/svg/avgupta456/langs)](https://githubtrends.io)
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 
 
