@@ -15,14 +15,17 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img href="https://vogue-verse.web.app/" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb,express,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb,express,git,nodejs" />
   </a>
 </p>
 
 # Recent Projects
 
 <p align="center">
-  <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
+  <a href="https://vogue-verse.web.app/">
+    <img src="https://i.ibb.co/WBqfVjB/logo-Black.png" width="56" height="56"/>
+  </a>
+  
 </p>
 
 # Summary
