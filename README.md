@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/nMxTbbq/32908076-249038668029-Converted.png?raw=true" alt="Sublime's custom image"/>
 </p>
 <br />
-<h3 align="center">Passionate about coding and creating meaningful solutions. Full-stack developer with a focus on clean, efficient code and user-centric design. Constantly learning and exploring new technologies. Let's build something amazing together! 🚀 </h3>
+<h3 align="center">Passionate about coding and creating meaningful solutions. MERN developer with a focus on clean, efficient code and user-centric design. Constantly learning and exploring new technologies. Let's build something amazing together! 🚀 </h3>
 <br />
 
 ## ⚡ My Current Stats 
