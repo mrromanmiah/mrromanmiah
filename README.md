@@ -26,6 +26,10 @@
   <a href="https://www.facebook.com/sakirroman">
     <img src="https://i.ibb.co/D9PL630/Asset-3.png" width="56" height="56"/>
   </a>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAmklEQVR42mJ0BgID/DMyC/gBDRJrMRAJXAPLmU6U9FJkiJCBdEMpYYwUwgA0fB/1RKTkPpIOXpHqBvhK5H5UqSRSFKWYpfIkGCoF2OzExODqDJbAZLPwAnGzEz+D9OPwLlK+Yr+Y6m9UgoOckR2sMTPgwPvEA34Jk2bDAAc1Cuj/NSIYF2gswpACiOh+ixUigAAAABJRU5ErkJggg==" width="10" height="1"/>
+  <a href="https://www.instagram.com/sakirroman">
+    <img src="https://i.ibb.co/5jD8m9y/Asset-5.png" width="56" height="56"/>
+  </a>
 </div>
 <br />
   
