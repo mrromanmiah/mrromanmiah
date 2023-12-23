@@ -14,7 +14,7 @@
   ## 📱 Social Connection
 <br />
 <br />
-<div align="center" style="display:flex; gap:30">
+<div align="center" style="display:flex; gap:'30px'">
   <a href="https://www.linkedin.com/in/romanmiah/">
     <img src="https://i.ibb.co/k296PVh/ln.png" width="56" height="56"/>
   </a>
