@@ -8,7 +8,7 @@
 ## ⚡ My Current Stats 
 <br />
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FFFFFF&fire=91FF00&currStreakNum=91FF00&currStreakLabel=91FF00&sideNums=91FF00&sideLabels=0059FC&dates=FFFFFF" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrromanmiah&theme=dark&background=0D1117&border=0D1117&ring=FFFFFF&fire=91FF00&currStreakNum=91FF00&currStreakLabel=91FF00&sideNums=91FF00&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /></a>
   </p>
 
   ## 📱 Social Connection
