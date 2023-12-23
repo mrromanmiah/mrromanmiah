@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/nMxTbbq/32908076-249038668029-Converted.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://i.ibb.co/9pWtH4b/Asset-1.png?raw=true" alt="Sublime's custom image"/>
 </p>
 <br />
 <h3 align="center">Passionate about coding and creating meaningful solutions. MERN developer with a focus on clean, efficient code and user-centric design. Constantly learning and exploring new technologies. Let's build something amazing together! 🚀 </h3>
