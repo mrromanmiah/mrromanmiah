@@ -14,36 +14,34 @@
   ## 📱 Social Connection
 <br />
 <br />
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/romanmiah/">
+
+<div>
+  <a href="https://www.linkedin.com/in/romanmiah/">
         <img src="https://i.ibb.co/k296PVh/ln.png" width="56" height="56"/>
       </a>
-    </td>
-    <td style="width: 10px;"></td> <!-- Adjust the width for the desired gap -->
+    
 
-    <td>
+    
       <a href="https://twitter.com/SakirAhmedRoman">
         <img src="https://i.ibb.co/47Bbg0C/x.png" width="56" height="56"/>
       </a>
-    </td>
-    <td style="width: 10px;"></td>
+   
 
-    <td>
+   
       <a href="https://www.facebook.com/sakirroman">
         <img src="https://i.ibb.co/bKZTmX4/fb.png" width="56" height="56"/>
       </a>
-    </td>
-    <td style="width: 10px;"></td>
+    
+    
 
-    <td>
+    
       <a href="https://www.instagram.com/sakirroman">
         <img src="https://i.ibb.co/FszwHPF/in.png" width="56" height="56"/>
       </a>
-    </td>
-  </tr>
-</table>
+</div>
+
+      
+    
 <br />
   
   ## 💻 Technologies I Know
